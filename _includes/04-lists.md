@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Indian food
+2. Middle Eastern food
+3. Mexican food
